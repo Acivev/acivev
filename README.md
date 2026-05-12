@@ -40,7 +40,7 @@ You can head to my repository list to see the repositories that I maintain. Here
 
 -   [osu!droid](https://github.com/osudroid/osu-droid), a free-to-win rhythm game for Android devices based on the rhythm game [osu!](https://osu.ppy.sh).
 -   [osu!droid - New Website](https://github.com/osudroid/O-Canary), this website is still work in progress (currently private), but Website can be accessed here [new website!](https://new.osudroid.moe/)
--   [osu!droid - new running Backend], this is my currently running backend made in node.js (currently private), but its usable see [Docs](https://new.osudroid.moe/api2/frontend/docs/).
+-   [osu!droid - new running Backend](currently private) this is my currently running backend made in node.js. See [Docs](https://new.osudroid.moe/api2/frontend/docs/) This Backend is an replacement for the old Backend that is made in PHP.
 -   [osu!droid - New Backend]([https://github.com/osudroid/O-Canary](https://github.com/osudroid/O-Nightly)), this will be the new backend in C# but its still work in progress (currently private). Will be hold as long we getting things ready.
 
 
